@@ -1,0 +1,34 @@
+# ================= Python =================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# ================= Virtual Environments =================
+venv/
+env/
+.venv/
+
+# ================= Environment Variables =================
+.env
+
+# ================= Database / Local Storage =================
+db.json
+
+# ================= OS Files =================
+.DS_Store
+Thumbs.db
+
+# ================= IDE / Editor =================
+.vscode/
+.idea/
+*.swp
+
+# ================= Build / Distribution =================
+build/
+dist/
+*.spec
+
+# ================= Cache =================
+.cache/
